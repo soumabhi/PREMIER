@@ -26,18 +26,6 @@ To get started with **PREMIER**, follow these steps:
 # Clone the repository
 git clone https://github.com/soumabhi/PREMIER.git
 
-# Navigate into the directory
-cd PREMIER
-
-# Install the dependencies
-npm install
-
-# 🎮 Usage
-
-Run the following command to start the project:
-
-npm start
-
 # 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
