@@ -7,19 +7,7 @@
 
 Welcome to **PREMIER**! This project aims to do NOTHING. Just see it 👀. 🌟
 
-For more details, explore the following sections:
-
-- [Live Demo](./LIVE_DEMO.md)
-- [Features](./FEATURES.md)
-- [Installation](./INSTALLATION.md)
-- [Usage](./USAGE.md)
-- [Contributing](./CONTRIBUTING.md)
-- [License](./LICENSE.md)
-- [Contact](./CONTACT.md)
-
----
-
-Made with ❤️ by [ABHI].
+Made with ❤️ by ABHI.
 
 # 🌐 Live Demo
 
@@ -27,9 +15,9 @@ Check out the live site 👉 [PREMIER](https://soumabhi.github.io/PREMIER/)
 
 # ✨ Features
 
-- 🚀 **Feature 1**: [Made with HTML & CSS]
-- 💡 **Feature 2**: [Used basic animation]
-- ⚡ **Feature 3**: [idk, 👀]
+- 🚀 **Feature 1**: Made with HTML & CSS
+- 💡 **Feature 2**: Used basic animation
+- ⚡ **Feature 3**: idk, 👀
 
 # 🛠️ Installation
 
