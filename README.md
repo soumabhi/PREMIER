@@ -43,4 +43,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 # 📧 Contact
 
 - **GitHub**: [soumabhi](https://github.com/soumabhi)
-- **Email**: [abhishekhansdak53@gmail.com]
+- **Email**: abhishekhansdak53@gmail.com
+
+# 😞 SORRY, THE WEBSITE ISN'T RESPONSIVE
