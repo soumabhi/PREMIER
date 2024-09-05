@@ -45,4 +45,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **GitHub**: [soumabhi](https://github.com/soumabhi)
 - **Email**: abhishekhansdak53@gmail.com
 
-# 😞 SORRY, THE WEBSITE ISN'T RESPONSIVE
+# 😞 SORRY, THE WEBSITE ISN'T RESPONSIVE.
